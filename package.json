@@ -1,0 +1,19 @@
+{
+  "name": "pifish-ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "433-utils": "^1.1.4",
+    "@types/node": "^14.0.11",
+    "node-dht-sensor": "^0.4.2",
+    "socket.io": "^2.3.0",
+    "typescript": "^3.9.5"
+  },
+  "type": "module"
+}
